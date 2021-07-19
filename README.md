@@ -1,4 +1,12 @@
-Run Python unittest
+1. creating virtual environments
+```shell
+python3 -m venv
 ```
-python3.9 -m unittest
+2. activate virtual environment
+```shell
+source venv/bin/activate
+```
+3. Run Python unittest
+```
+python -m unittest
 ```
