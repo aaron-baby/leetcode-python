@@ -1,6 +1,6 @@
 1. creating virtual environments
 ```shell
-python3 -m venv
+python3 -m venv venv
 ```
 2. activate virtual environment
 ```shell
