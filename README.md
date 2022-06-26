@@ -10,3 +10,7 @@ source venv/bin/activate
 ```
 python -m unittest
 ```
+## Problems index
+| Number | Problem                                                                                           | Solution                                                 |
+|--------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| 1721   | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Python](linked_list/swapping_nodes_in_a_linked_list.py) |
